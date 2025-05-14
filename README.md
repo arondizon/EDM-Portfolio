@@ -1,4 +1,3 @@
-# EDM-Portfolio
 # EDM Lab Tasks
 
 This repository contains my lab task completion for the EDM (Electronic Data Management) course. In this lab, I learned how to perform raw data cleansing and store the cleaned data on GitHub. 
