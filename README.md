@@ -16,7 +16,7 @@ I believe music is a universal language, and I’m excited to continue developin
 
 ---
 
-## Finals Lab Tasks – EDM Portfolio by Kelly Bacus
+## Finals Lab Tasks
 
 ### 1. [Finals Task 1: Events Management Database](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%201/README.md)  
 
