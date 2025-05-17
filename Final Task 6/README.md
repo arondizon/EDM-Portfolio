@@ -115,6 +115,7 @@ Write queries to:
 ![Alt Text](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%206/Images/findx1.png)
 
 - Find all movies whose synopsis contains "Gandalf".
+
 ![Alt Text](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%206/Images/findx2.png)
 
 - Find all movies whose synopsis contains "Bilbo" but not "Gandalf".
