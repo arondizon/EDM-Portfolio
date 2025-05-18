@@ -28,7 +28,7 @@ I believe music is a universal language, and I’m excited to continue developin
 
 ### 5. [Finals Task 5: SQL Views, Stored Procedures & Functions](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%205/README.md)  
 
-### 5. [Finals Task 6: MongoDB Practice](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%206/README.md)
+### 6. [Finals Task 6: MongoDB Practice](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%206/README.md)
 
 ---
 
