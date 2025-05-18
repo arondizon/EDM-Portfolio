@@ -13,7 +13,7 @@ CREATE TABLE attendees_tbl (
     attendee_id INT AUTO_INCREMENT PRIMARY KEY,
     attendee_name VARCHAR(255) NOT NULL
 );
-
+https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%201/README.md
 CREATE TABLE events_attendees_tbl (
     event_id INT,
     attendee_id INT,
@@ -32,7 +32,7 @@ CREATE TABLE event_sponsors_tbl (
 
 ### Step 2: Table Output
 
-![Alt Text](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%201/Images/TABLES.jpg)
+![Alt Text](https://github.com/arondizon/EDM-Portfolio/blob/main/Final%20Task%201/Images/TABLESs.jpg)
 
 ### Step 3: Entity Relationship Diagram (ERD)
 
@@ -40,7 +40,7 @@ CREATE TABLE event_sponsors_tbl (
 ## Database Creation SQL Script
 
 ```sql
-CREATE DATABASE IF NOT EXISTS Naythan_DB;
+CREATE DATABASE IF NOT EXISTS Aron_DB;
 USE Naythan_DB;
 
 CREATE TABLE IF NOT EXISTS events_tbl (
